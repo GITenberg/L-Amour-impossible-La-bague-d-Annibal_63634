@@ -1,5 +1,8 @@
 _repo: L-Amour-impossible-La-bague-d-Annibal_63634
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63634-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbey d'Aurevilly, J. (Jules)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5245
     wikipedia: http://en.wikipedia.org/wiki/Jules_Amédée_Barbey_d'Aurevilly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63634#L-Amour-impossible-La-bague-d-Annibal
 gutenberg_issued: '2020-11-04'
 gutenberg_type: Text
 identifiers:
